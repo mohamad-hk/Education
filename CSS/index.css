@@ -3,32 +3,21 @@
     height: 800px;
     width: 100%;
 }
-#heading-slider{
-    position: absolute;
-    top: 20%;
-    left: 20%;
-    font-size: 50px;
-}
 
-#text-slider{
-    position: absolute;
-    top: 30%;
-    left: 20%;
-    line-height: 2em;
+#description_slider{
+    width: 40%;
+    padding: 20px;
+    margin-top: 10%;
+    margin-left: 10%;
 }
-#button-slider{
-    position:absolute ;
-    top: 45%;
-    left: 20%;
-}
-#image-slider{
+#image_slider{
     position: absolute;
-    right: 10%;
-    top: 1%;
+    right: 1%;
+    width: 50%;
 }
 #scholarship{
     position: absolute;
-    top: 80%;
+    top: 100%;
 }
 #card1{
     background-color:#48a7d4 ;
@@ -41,4 +30,9 @@
 }
 #card4{
     background-color:#10c45c ;
+}
+
+#about_us{
+    padding-left: 5%;
+    padding-right:5%;
 }
